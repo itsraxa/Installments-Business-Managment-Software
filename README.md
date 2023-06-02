@@ -7,4 +7,4 @@ A software solution for managing installments businesses in Java. It was built u
 2. From menu enter any number between the range provided to perform the operation.
 3. To exit from program enter number 18
 
-## THANK YOU
+## THANK YOU 🤪
